@@ -1,7 +1,7 @@
 ## Melanie C. Föll
 
-I develop Galaxy tools, workflows and training material for different mass spectrometry based approaches. 
-
+I apply mass spectrometry based methods (metabolomics, lipidomics, proteomics) to unravel molecular characteristics of solid tumors and their microenvinronment. To achieve this, I establish robust and quality controlled experimental and computational workflows. 
+See below some of my tools and training materials mainly based on the [Galaxy framework](https://galaxyproject.org), which enables open science and accessible research. 
 
 ### Tools 
 
@@ -54,5 +54,5 @@ I develop Galaxy tools, workflows and training material for different mass spect
 
 #### Other
 
-* [ASMS 2020 Fall Workshop](https://github.com/ZenBrayn/asms_2020_fall_workshop)
+* [ASMS 2020 Fall Workshop: R Fundamentals and Best Practices for Mass Spectrometry Data Analysis](https://github.com/ZenBrayn/asms_2020_fall_workshop)
 
