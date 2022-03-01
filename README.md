@@ -19,6 +19,8 @@ See below some of my tools and training materials mainly based on the [Galaxy fr
     * [MSI segmentation](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/galaxyp/cardinal_segmentations/cardinal_segmentations)
     * [MSI classification](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/galaxyp/cardinal_classification/cardinal_classification)
     * [MSI data exporter](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/galaxyp/cardinal_data_exporter/cardinal_data_exporter)
+    * [MSI colocalization](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/galaxyp/cardinal_colocalization/cardinal_colocalization)
+    * [MSI single ion segmentation](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/galaxyp/cardinal_single_ion_segmentation/cardinal_single_ion_segmentation)
 * [MALDIquant software suite](http://www.strimmerlab.org/software/maldiquant)
   * [Galaxy tools in GitHub](https://github.com/galaxyproteomics/tools-galaxyp/tree/master/tools/maldiquant)
   * Direct links to use the tools on the European Galaxy server:
