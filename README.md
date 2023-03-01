@@ -52,16 +52,20 @@ See below some of my tools and training materials mainly based on the [Galaxy fr
 
 #### Next workshops
 
-* March 2022: [Global Galaxy online course (GTN Smörgasboard 2)](https://gallantries.github.io/posts/2021/12/14/smorgasbord2-tapas)
-* August 2022: [Galaxy-P workshop at IMSC 2022](https://www.imsc2022.com)
+* March 2023: [Introduction to Metabolomics](https://www.ebi.ac.uk/training/events/introduction-metabolomics-analysis-1)
+* May 2023: [Global Galaxy online course (GTN Smörgasboard 3)](https://gallantries.github.io/video-library/events/smorgasbord3/)
 
 #### Galaxy related
 
 * [Overview of my Galaxy training materials](https://training.galaxyproject.org/training-material/hall-of-fame/foellmelanie)
 * [Video "Proteomics - Introduction to mass spectrometry based proteomics data analysis"](https://www.youtube.com/watch?v=2C96AvrFT38)
 
-#### Other
 
+#### Old workshops
+
+* October 2022: [ABRF Proteomics Cloud Computing Workshops](https://www.youtube.com/playlist?list=PLAPsVsmQv3BeVCLeNkOVfgBWg0xYlE10x)
+* August 2022: [Galaxy-P workshop at IMSC 2022](https://www.imsc2022.com)
+* March 2022: [Global Galaxy online course (GTN Smörgasboard 2)](https://gallantries.github.io/posts/2021/12/14/smorgasbord2-tapas)
 * ASMSM 2020 Fall Workshop: R R Fundamentals and Best Practices for Mass Spectrometry Data Analysis:
     * [Materials](https://github.com/ZenBrayn/asms_2020_fall_workshop)
     * [Video mass spectrometry imaging with Cardinal (starting at 2h13min)](https://www.youtube.com/watch?v=4W9fwYhK7Bw)
