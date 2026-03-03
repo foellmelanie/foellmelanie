@@ -53,7 +53,7 @@ See below some of my tools and training materials mainly based on the [Galaxy fr
 #### Next workshops
 
 * April 2026: [Introduction to Metabolomics](https://www.ebi.ac.uk/training/events/introduction-to-metabolomics-analysis-2026/)
-* May 2026: [Global Galaxy Training Academy](https://training.galaxyproject.org/training-material/events/2026-05-18-galaxy-academy.html/)
+* May 2026: [Global Galaxy Training Academy](https://training.galaxyproject.org/training-material/events/2026-05-18-galaxy-academy.html)
   
 #### Galaxy related
 
