@@ -52,9 +52,9 @@ See below some of my tools and training materials mainly based on the [Galaxy fr
 
 #### Next workshops
 
-* March 2023: [Introduction to Metabolomics](https://www.ebi.ac.uk/training/events/introduction-metabolomics-analysis-1)
-* May 2023: [Global Galaxy online course (GTN Smörgasboard 3)](https://gallantries.github.io/video-library/events/smorgasbord3/)
-
+* April 2026: [Introduction to Metabolomics](https://www.ebi.ac.uk/training/events/introduction-to-metabolomics-analysis-2026/)
+* May 2026: [Global Galaxy Training Academy)](https://training.galaxyproject.org/training-material/events/2026-05-18-galaxy-academy.html)
+  
 #### Galaxy related
 
 * [Overview of my Galaxy training materials](https://training.galaxyproject.org/training-material/hall-of-fame/foellmelanie)
